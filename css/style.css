@@ -295,6 +295,7 @@ header .container nav {
 .form{
     width: 50%;
     margin: auto;
+    text-align:center;
 }
 }
 /* services */
